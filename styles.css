@@ -1,0 +1,38 @@
+h1{
+	color:pink;
+}
+
+h1{
+	color:lightpink;
+}
+
+body{
+	background-color:#FFF3BF;
+	font-family: sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	background-color: lightpink;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+}
+
+li{
+	float: left;
+}
+li a{
+	color: white;
+	padding: 20px;
+	text-align: center;
+	float: left;
+
+}
+
+li a:hover{
+	color:blue;
+	background-color: white;
+}
